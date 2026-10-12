@@ -1,4 +1,4 @@
-# ☕ The Coffee Club
+# #☕ The Coffee Club
 
 A modern and visually appealing coffee shop website designed to deliver a clean and user-friendly experience. This project focuses on creating an engaging UI with well-structured sections and smooth navigation.
 
